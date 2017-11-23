@@ -1,0 +1,3 @@
+/home/mariusz/Pulpit/rownanie2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mariusz/Pulpit/rownanie2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mariusz/Pulpit/rownanie2/cmake-build-debug/CMakeFiles/rownanie2.dir
